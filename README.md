@@ -260,7 +260,7 @@ fetch(request)
 
 ![image-20200615215820188](img/README/image-20200615215820188.png)
 
-如果不方便用电脑优选ip也可以把地址设为`cloudflare.com`或`icook.tw`,这两个一个cloudflare官网，自然也是使用自家cdn，另外一家是台湾省的一个网站，域名指向的ip一般也是比较好的线路。
+如果不方便用电脑优选ip也可以把地址设为`cloudflare.com`或`icook.tw`,这两个一个cloudflare官网，自然也是使用自家cdn，另外一家是台湾的一个网站，域名指向的ip一般也是比较好的线路。
 
 ![image-20200615220201165](img/README/image-20200615220201165.png)
 
